@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is 5th file using for pull operation into local reposetory.
+=======
+sample file
+>>>>>>> ca1a60f74cd41f442faf4a8f055da40530de0954
