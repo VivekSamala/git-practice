@@ -1,1 +1,1 @@
-This is 5th file using for pull operation into local reposetory.
+This is a sample file.
